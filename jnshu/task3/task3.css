@@ -2,9 +2,10 @@
 	margin: 0;
 	padding: 0;
 }
-.wrap{
+body{
 	background-color: #68cdd5;
-	height: 600px;
+}
+.wrap{
 }
 .header{
 	height: 64px;
@@ -21,8 +22,8 @@
 	margin: 20px auto;
 }
 .text{
-	height: 150px;
-	margin: 15% 10% 0;
+	height: 100px;
+	margin: 10% 10% 5%;
 	text-align: center;
 }
 .text p{
